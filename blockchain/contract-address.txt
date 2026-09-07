@@ -1,0 +1,11 @@
+FaceChainVerify Contract Address:
+0x7ced9bac2f4286f00c25b2ad84596b29036f4e34
+
+Network:
+Localhost
+
+RPC:
+http://127.0.0.1:8545
+
+Chain ID:
+1337
